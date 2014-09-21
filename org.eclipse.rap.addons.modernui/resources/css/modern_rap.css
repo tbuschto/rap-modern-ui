@@ -1,0 +1,84 @@
+Button-CheckIcon.switch {
+  spacing: 1px;
+  background-image: url( resources/images/switch_off.png )
+}
+
+Button-CheckIcon:selected.switch {
+  background-image: url( resources/images/switch_on.png )
+}
+
+Button-CheckIcon:hover.switch {
+  background-image: url( resources/images/switch_off_hover.png )
+}
+
+Button-CheckIcon:hover:selected.switch {
+  background-image: url( resources/images/switch_on_hover.png )
+}
+
+Button-CheckIcon.switch_s {
+  spacing: 1px;
+  background-image: url( resources/images/switch_off_s.png )
+}
+
+Button-CheckIcon:selected.switch_s {
+  background-image: url( resources/images/switch_on_s.png )
+}
+
+Button-CheckIcon:hover.switch_s {
+  background-image: url( resources/images/switch_off_hover_s.png )
+}
+
+Button-CheckIcon:selected:hover.switch_s {
+  background-image: url( resources/images/switch_on_hover_s.png )
+}
+
+Button-CheckIcon.switch_xs {
+  spacing: 1px;
+  background-image: url( resources/images/switch_off_xs.png )
+}
+
+Button-CheckIcon:selected.switch_xs {
+  background-image: url( resources/images/switch_on_xs.png )
+}
+
+Button-CheckIcon:hover.switch_xs {
+  background-image: url( resources/images/switch_off_hover_xs.png )
+}
+
+Button-CheckIcon:selected:hover.switch_xs {
+  background-image: url( resources/images/switch_on_hover_xs.png )
+}
+
+Button-CheckIcon.switch_l {
+  spacing: 1px;
+  background-image: url( resources/images/switch_off_l.png )
+}
+
+Button-CheckIcon:selected.switch_l {
+  background-image: url( resources/images/switch_on_l.png )
+}
+
+Button-CheckIcon:hover.switch_l {
+  background-image: url( resources/images/switch_off_hover_l.png )
+}
+
+Button-CheckIcon:hover:selected.switch_l {
+  background-image: url( resources/images/switch_on_hover_l.png )
+}
+
+Button-CheckIcon.switch_xl {
+  spacing: 1px;
+  background-image: url( resources/images/switch_off_xl.png )
+}
+
+Button-CheckIcon:selected.switch_xl {
+  background-image: url( resources/images/switch_on_xl.png )
+}
+
+Button-CheckIcon:hover.switch_xl {
+  background-image: url( resources/images/switch_off_hover_xl.png )
+}
+
+Button-CheckIcon:hover:selected.switch_xl {
+  background-image: url( resources/images/switch_on_hover_xl.png )
+}
